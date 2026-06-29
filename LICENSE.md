@@ -1,4 +1,4 @@
-# 
+# Gratuito AI Fake News Detector flujo de trabajo. Con redes neuronales y detección de objetos — optimizado para el máximo rendimiento.
 
 
 
